@@ -79,8 +79,5 @@ def main():    # func.hub
 
 
 
-
-
-
 if __name__ == '__main__':    # point of enter
     main()
